@@ -1,0 +1,25 @@
+# Always-ignore extensions
+*.diff
+*.err
+*.log
+*.map
+*.lnk
+*.bak
+
+# OS or Editor folders
+._*
+.cache
+.DS_Store
+.project
+.settings
+.node-version
+*.sublime-project
+*.sublime-workspace
+*.sublime-settings
+Thumbs.db
+*.sass-cache
+_notes
+
+# Folders to ignore
+bower_components
+node_modules
