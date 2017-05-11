@@ -1,0 +1,22 @@
+{
+  "name": "jquery-share-sns",
+  "version": "0.0.1",
+  "description": "jQuery Plugin: Help sharing sns on custom link",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/siakas/jquery-share-sns"
+  },
+  "author": "Sanshiroh Sakai",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-notify": "^3.0.0",
+    "gulp-uglify": "^2.1.2"
+  }
+}
